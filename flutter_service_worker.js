@@ -1,8 +1,9 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "64083d343f685ec185cd48872a46166d",
+  "assets/AssetManifest.json": "72dc536d024c342cf2702383fd5ecb75",
 "assets/Assets/acceleration.png": "f9207223742801384f6fcf71e11e47c1",
+"assets/Assets/admin.png": "0bd7bb4352b4e438e90f6a1ca8869c38",
 "assets/Assets/break.png": "47072cdf5cb5e3361901147af72e6259",
 "assets/Assets/dashboard.png": "94f0dfac6fc3ee8c43ae09738a0feea9",
 "assets/Assets/driver.png": "0745d4be7942fec05b0037f56eff2a0d",
@@ -10,7 +11,7 @@ const RESOURCES = {
 "assets/Assets/map.png": "448fe02bbeb50535285a9c5663e08d56",
 "assets/FontManifest.json": "f7161631e25fbd47f3180eae84053a51",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "b0f5495a1583a8a12e88f448a8941b8a",
+"assets/LICENSE": "bd9170e28d287d9779dffc67a2809e3e",
 "assets/packages/country_list_pick/flags/ad.png": "1aacf693aed2acfe02e61661bb1d15ca",
 "assets/packages/country_list_pick/flags/ae.png": "f0a95f247aa9ed04e8b8078fab47d116",
 "assets/packages/country_list_pick/flags/af.png": "660f122fdb9e6eee8c23ce283e6c436e",
@@ -1031,7 +1032,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "9aded9545edf26bd5195342ab20ac084",
 "/": "9aded9545edf26bd5195342ab20ac084",
-"main.dart.js": "159d0cbd0aa52b3954548a84a6d15368",
+"main.dart.js": "b55d058d8d39e2f46fe506e32a080181",
 "manifest.json": "837c7bfa313a36d28c18dd16a3a54407"
 };
 
